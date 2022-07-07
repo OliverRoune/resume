@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Balsamiq+Sans&family=Roboto&display=swap');
+
+a {
+    text-decoration: none;
+    transition: all .2s;
+}
+
+a:hover {
+    color: orange;
+    font-size: 2rem;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: normal;
+    background: white;
+    color: #0f141e;
+}
+
+.avatar {
+    width: 300px;
+    border-radius: 28px;
+    box-shadow: 4px 4px 14px rgba(0, 0, 0, .25);
+    margin: 5 auto;
+}
+
+.info {
+    margin-bottom: 20 px;
+}
+
+.card {
+    padding: 15px 20px;
+    margin-bottom: 20px;
+}
+
+
+.info-text p {
+    font-style: normal;
+    font-weight: normal;
+    color: black;
+    padding: 15px 20px;
+    margin-bottom: 10px;
+}
+
+.card-6 {
+    background: rgb(237, 250, 255);
+    border-width: 50px;
+    border-radius: 10px;
+    border: 1px solid black;
+}
+
+.card-1 {
+    background: rgb(255, 252, 240);
+    border-width: 50px;
+    border-radius: 10px;
+    border: 1px solid black;
+}
+
+.card-2 {
+    background: rgb(255, 243, 245);
+    color: black;
+    border-radius: 10px;
+    border: 1px solid black;
+}
+
+.card-3 {
+    background: rgb(247, 255, 234);
+    border-radius: 10px;
+    border: 1px solid black;
+}
+
+.card-4 {
+    background: rgb(255, 247, 231);
+    border-radius: 10px;
+    border: 1px solid black;
+}
+
+.card-5 {
+    background: rgb(248, 242, 255);
+    border-radius: 10px;
+    border: 1px solid black;
+}
